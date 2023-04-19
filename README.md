@@ -46,5 +46,5 @@ Next, click Create.
 Once the instance has been created, select OPEN JUPYTERLAB.
 ![Open Notebook](/assets/images/openjupyterlab.png)
 
-Open the notebook and select the "TensorFlow 2(Local)" Kernel and follow notebook instructions
+Open the notebook and select the "TensorFlow 2(Local)" Kernel and follow the notebook instructions
 
